@@ -1,0 +1,7 @@
+# Local database files and editor artifacts
+*.mdf
+*.ldf
+*.bak
+*.sqlproj.user
+.vs/
+.DS_Store
